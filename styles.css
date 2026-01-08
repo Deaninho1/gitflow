@@ -1,3 +1,8 @@
+.flex-container{
+   height: 200px;
+   align-items: flex-start; 
+  
+}
 .nav {
   list-style: none;
   display: flex;
